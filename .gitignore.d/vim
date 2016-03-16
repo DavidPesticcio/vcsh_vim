@@ -1,0 +1,17 @@
+*
+!/.gitignore.d
+!/.gitignore.d/vim
+!/.vim
+!/.vim/.gitignore
+!/.vim/.vimrc
+!/.vim/after
+!/.vim/after/plugin
+!/.vim/after/plugin/vimrc_after.vim
+!/.vim/ftplugin
+!/.vim/ftplugin/gitcommit.vim
+!/.vim/settings
+!/.vim/settings.vim
+!/.vim/settings/*
+!/.vim/vundles
+!/.vim/vundles.vim
+!/.vim/vundles/*
